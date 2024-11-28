@@ -95,10 +95,6 @@
 <br>
 <br>
 
-<a align="center" href="https://github.com/basel-kaffoura/portfolio">
-  Portfolio
-</a>
-
 <br>
 <hr>
 <div align="center">
