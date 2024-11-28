@@ -35,10 +35,7 @@
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
       <br>Laravel
     </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=symfony" width="48" height="48" alt="symfony" />
-      <br>Symfony
-    </td>
+   
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
       <br>Vue
@@ -118,7 +115,7 @@ I am a dedicated and passionate person who seeks solutions to diverse challenges
  
 ### What do I do?
 
-By profession, I am a Full Stack PHP Developer. I have experience in Laravel and Symfony environments on the backend side with Vue.js and React.js on the Frontend side. I also worked a lot in content management systems such as WordPress and Drupal.
+By profession, I am a Full Stack PHP Developer. I have experience in Laravel environment on the backend side with Vue.js on the Frontend side. I also worked a lot in content management systems such as WordPress and Drupal.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
