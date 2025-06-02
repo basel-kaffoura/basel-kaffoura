@@ -3,7 +3,7 @@
 # <div align="center"><a href="https://github.com/basel-kaffoura/portfolio">Visit Portfolio Repository</a></div>
  
 ### 💻 Work Experiences:
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -43,25 +43,13 @@
   </tr>
   <tr>   
    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
-      <br>React
-    </td>
-   <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind">
       <br>Tailwind
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
       <br>TypeScript
-    </td>    
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="wordpress" />
-      <br>Wordpress
-    </td>    
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/drupal.svg" width="48" height="48" alt="drupal">
-      <br>Drupal
-    </td>    
+    </td>   
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
       <br>jQuery
@@ -78,17 +66,11 @@
 </table>
 
 ### 🛠 Tools & Technologies:
-<img align="left" title="PhpStorm" alt="PHP-Storm" src="https://skillicons.dev/icons?i=phpstorm" width="48" height="48" >
 <img align="left" title="Git" alt="Git" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="48" height="48" >
 <img align="left" title="GitHub" alt="GitHub" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="48" height="48" >
-<img align="left" title="GitBash" alt="Gitbash" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" width="48" height="48" >
-<img align="left" title="NPM" alt="npm" src="https://skillicons.dev/icons?i=npm" width="48" height="48" >
-<img align="left" title="Terminal" alt="terminal" src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" width="48" height="48" >
 <img align="left" title="Postman" alt="postman" src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="48" height="48" >
-<img align="left" title="Xampp" alt="xampp" src="https://cdn.worldvectorlogo.com/logos/xampp.svg" width="48" height="48" >
 <img align="left" title="Docker Desktop" alt="Docker-Desktop" src="https://skillicons.dev/icons?i=docker" width="48" height="48" >
 <img align="left" title="AWS CLI" alt="AWS" src="https://skillicons.dev/icons?i=aws" width="48" height="48" >
-<img align="left" title="Redis" alt="Redis" src="https://skillicons.dev/icons?i=redis" width="48" height="48" >
 <img align="left" title="Jenkins" alt="Jenkins" src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" >
 
 
@@ -107,7 +89,7 @@ I am a dedicated and passionate software engineer with a strong focus on both ba
  
 ### What do I do?
 
-By profession, I am a Full Stack PHP Developer. I have experience in Laravel environment on the backend side with Vue.js on the Frontend side. I also worked a lot in content management systems such as WordPress and Drupal.
+By profession, I am a Full Stack PHP Developer. I specialize in back-end development using the Laravel framework, combined with Vue.js on the front-end. I’ve also worked flexibly with pure PHP projects as well as other frameworks when needed, adapting to different architectures and requirements with ease.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
