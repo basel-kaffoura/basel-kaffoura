@@ -101,7 +101,7 @@
 
 ### Who am I?
 
-I am a dedicated and passionate person who seeks solutions to diverse challenges, and I have a deep interest in back-end and front-end web development. Throughout my academic journey as a software engineer, I have built a strong foundation in these areas, and have consistently excelled in coursework, projects, and in my post-graduate career.
+I am a dedicated and passionate software engineer with a strong focus on both back-end and front-end web development. Since graduating in 2017, I have gained extensive professional experience in building and maintaining robust web applications. I enjoy solving complex challenges and continuously strive to write clean, efficient, and scalable code. With a solid academic background and years of hands-on experience, I am always eager to learn new technologies and contribute to impactful projects.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
  
