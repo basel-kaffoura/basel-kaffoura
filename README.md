@@ -1,5 +1,3 @@
-<br>
-
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=1000&height=50&lines=Hello,+I+am+Basel+Kaffoura;Full-Stack+Software+Engineer;Especially,+I'm+Senior+PHP+Developer;I+have+7%20years%20of%20coding%20experience;Welcome+to+my+GitHub+Profile)](https://github.com/basel-kaffoura/portfolio) 
@@ -15,9 +13,7 @@
       <br>HTML
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      </a>
       <br>CSS
     </td>
     <td align="center" width="96">
