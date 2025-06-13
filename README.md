@@ -103,7 +103,7 @@ While most of my projects remain personal and private, in this public repository
 
 ## 📮 Get in Touch
 <p align="center">
-<a href="https://www.linkedin.com/in/basel-kaffoura/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="basel-kaffoura" height="40" width="50" /></a><a href="https://api.whatsapp.com/send?phone=971503898795" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" alt="basel-kaffoura" height="40" width="50" /></a><a href="https://t.me/basel_kaf" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="basel-kaffoura" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/basel-kaffoura/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="basel-kaffoura" height="40" width="50" /></a><a href="https://api.whatsapp.com/send?phone=971503898795" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" alt="basel-kaffoura" height="40" width="50" /></a><a href="https://basel-kaffoura-portfolio.vercel.app" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=R9cokz2UAdyo&format=png&color=000000" alt="basel-kaffoura" height="50" width="50" /></a><a href="https://t.me/basel_kaf" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="basel-kaffoura" height="40" width="50" /></a>
  <a href="mailto:baselkaffoura@gmail.com" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="basel-kaffoura" height="40" width="50" /></a>
 
 </p>
