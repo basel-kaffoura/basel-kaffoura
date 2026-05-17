@@ -1,109 +1,132 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Basel+Kaffoura+👋;Fullstack+Software+Engineer;8%2B+Years+of+Production+Experience;PHP+%7C+Laravel+%7C+Python+%7C+React+%7C+Next.js;Building+Fintech+%26+Enterprise+Platforms)](https://baselkaffoura.online)
+
+<div align="center">
+
+### <a href="https://baselkaffoura.online">🌐 Visit My Portfolio — baselkaffoura.online</a>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=1000&height=100&lines=Hello,+I+am+Basel+Kaffoura;Full-Stack+Software+Engineer;Especially,+I'm+Senior+PHP+Developer;I+have+7%20years%20of%20coding%20experience;Welcome+to+my+GitHub+Profile)](https://github.com/basel-kaffoura/portfolio) 
+</div>
 
-# <div align="center"><a href="https://basel-kaffoura-portfolio.vercel.app">🌐 Visit My Portfolio Website 🌐</a></div>
-# <div align="center"><a href="https://github.com/basel-kaffoura/portfolio">Explore the source code of some public projects</a></div>
- 
-### 💻 Work Experiences:
+---
+
+### 🧑‍💻 Backend
+
 <table align="center">
   <tr align="center">
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>MySQL
-    </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
-      <br>MongoDB
-    </td>
- </tr>
-  <tr align="center">  
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="laravel" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
-   
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="vue" />
-      <br>Vue
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nuxt" width="48" height="48" alt="nuxt" />
-      <br>Nuxt
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
     </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
     </td>
-   <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind">
-      <br>Tailwind
-    </td>  
-    
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
-      <br>TypeScript
-    </td> 
   </tr>
 </table>
 
-### 🛠 Tools & Technologies:
+### 🎨 Frontend
+
+<table align="center">
+  <tr align="center">
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nuxt" width="48" height="48" alt="Nuxt" />
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Databases & DevOps
+
 <div align="center">
-<img title="Git" alt="Git" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="48" height="48" >
-<img title="Postman" alt="postman" src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="48" height="48" >
- <img title="Redis" alt="Redis" src="https://skillicons.dev/icons?i=redis" width="48" height="48" >
- <img title="AWS CLI" alt="AWS" src="https://skillicons.dev/icons?i=aws" width="48" height="48" >
-<img title="Docker Desktop" alt="Docker-Desktop" src="https://skillicons.dev/icons?i=docker" width="48" height="48" >
-<img title="Jenkins" alt="Jenkins" src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" >
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" title="Jenkins" />
 </div>
 
-<br>
-<br>
+---
 
-<br>
-<hr>
 <div align="center">
 
 ### Who am I?
 
-I am a dedicated and passionate software engineer with a strong focus on both back-end and front-end web development. Since graduating in 2017, I have gained extensive professional experience in building and maintaining robust web applications. I enjoy solving complex challenges and continuously strive to write clean, efficient, and scalable code. With a solid academic background and years of hands-on experience, I am always eager to learn new technologies and contribute to impactful projects.
+**8+ years experienced Fullstack Software Engineer** delivering production-grade platforms across fintech, e-learning, and enterprise. I've built and maintained regulated financial products for UK and US markets — including FCA-compliant loan funnels, lead management systems, and internal admin platforms — processing hundreds of transactions daily.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
- 
-### What do I do?
+Previously, I worked with government and cultural institutions in the UAE, including **Abu Dhabi Judicial Department** and **Dubai Center for Government Excellence**, delivering large-scale e-learning platforms with budgets exceeding $500K.
 
-By profession, I am a Full Stack PHP Developer. I specialize in back-end development using the Laravel framework, combined with Vue.js on the front-end. I’ve also worked flexibly with pure PHP projects as well as other frameworks when needed, adapting to different architectures and requirements with ease.
+I care deeply about clean architecture, system observability, and writing code that scales.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### What are my projects?
+### What do I build?
 
-While most of my projects remain personal and private, in this public repository I have collected some projects that I have chosen to release as they have been meticulously developed and give insight into my way of thinking, coding, and structuring files.<br>Explore them [here](https://github.com/basel-kaffoura/portfolio).
+I work across the **full product lifecycle** — architecture, REST APIs, frontend UIs, third-party integrations, CI/CD pipelines, monitoring, and SEO/CRO. My backend foundation is **PHP/Laravel**, expanded to **Python FastAPI** and **Node.js**. My frontend stack evolved from **Vue.js/Nuxt** to **React and Next.js with TypeScript**.
 
+I integrate with real-world APIs: Stripe, Twilio, Experian, Onfido, TrueLayer, GoHighLevel, Google/Meta/TikTok Ads, and more.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<hr>
+### Projects
+
+Most of my work is private and commercial, but you can explore my portfolio at **[baselkaffoura.online](https://baselkaffoura.online)** for a full breakdown of projects, tech stacks, and integrations — including live links where available.
+
 </div>
 
-## 📮 Get in Touch
-<p align="center">
-<a href="https://www.linkedin.com/in/basel-kaffoura/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="basel-kaffoura" height="40" width="50" /></a><a href="https://api.whatsapp.com/send?phone=971503898795" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" alt="basel-kaffoura" height="40" width="50" /></a><a href="https://basel-kaffoura-portfolio.vercel.app" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=R9cokz2UAdyo&format=png&color=000000" alt="basel-kaffoura" height="50" width="50" /></a><a href="https://t.me/basel_kaf" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" alt="basel-kaffoura" height="40" width="50" /></a>
- <a href="mailto:baselkaffoura@gmail.com" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="basel-kaffoura" height="40" width="50" /></a>
+---
 
+## 📮 Get in Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/basel-kaffoura/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="50" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/971503898795" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" height="40" width="50" alt="WhatsApp" />
+  </a>
+  <a href="https://t.me/basel_kaffoura" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" height="40" width="50" alt="Telegram" />
+  </a>
+  <a href="mailto:baselkaffoura@gmail.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="40" width="50" alt="Gmail" />
+  </a>
+  <a href="https://baselkaffoura.online" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=R9cokz2UAdyo&format=png&color=000000" height="50" width="50" alt="Portfolio" />
+  </a>
 </p>
