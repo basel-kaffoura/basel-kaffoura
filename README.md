@@ -1,132 +1,60 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=80&lines=Hi,+I'm+Basel+Kaffoura+👋;Fullstack+Software+Engineer;8%2B+Years+of+Production+Experience;PHP+%7C+Laravel+%7C+Python+%7C+React+%7C+Next.js;Building+Fintech+%26+Enterprise+Platforms)](https://baselkaffoura.online)
-
-<div align="center">
-
-### <a href="https://baselkaffoura.online">🌐 Visit My Portfolio — baselkaffoura.online</a>
-
-
-</div>
-
----
-
-### 🧑‍💻 Backend
-
-<table align="center">
-  <tr align="center">
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-  </tr>
-</table>
-
-### 🎨 Frontend
-
-<table align="center">
-  <tr align="center">
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nuxt" width="48" height="48" alt="Nuxt" />
-      <br>Nuxt.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-  </tr>
-</table>
-
-### 🗄️ Databases & DevOps
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" title="Redis" />
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" title="AWS" />
-  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" title="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" title="Vercel" />
-  <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" title="Jenkins" />
-</div>
-
----
-
-<div align="center">
-
-### Who am I?
-
-**8+ years experienced Fullstack Software Engineer** delivering production-grade platforms across fintech, e-learning, and enterprise. I've built and maintained regulated financial products for UK and US markets — including FCA-compliant loan funnels, lead management systems, and internal admin platforms — processing hundreds of transactions daily.
-
-Previously, I worked with government and cultural institutions in the UAE, including **Abu Dhabi Judicial Department** and **Dubai Center for Government Excellence**, delivering large-scale e-learning platforms with budgets exceeding $500K.
-
-I care deeply about clean architecture, system observability, and writing code that scales.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### What do I build?
-
-I work across the **full product lifecycle** — architecture, REST APIs, frontend UIs, third-party integrations, CI/CD pipelines, monitoring, and SEO/CRO. My backend foundation is **PHP/Laravel**, expanded to **Python FastAPI** and **Node.js**. My frontend stack evolved from **Vue.js/Nuxt** to **React and Next.js with TypeScript**.
-
-I integrate with real-world APIs: Stripe, Twilio, Experian, Onfido, TrueLayer, GoHighLevel, Google/Meta/TikTok Ads, and more.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### Projects
-
-Most of my work is private and commercial, but you can explore my portfolio at **[baselkaffoura.online](https://baselkaffoura.online)** for a full breakdown of projects, tech stacks, and integrations — including live links where available.
-
-</div>
-
----
-
-## 📮 Get in Touch
+<h1 align="center">Basel Kaffoura</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/basel-kaffoura/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="50" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/971503898795" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-business-bg.svg" height="40" width="50" alt="WhatsApp" />
-  </a>
-  <a href="https://t.me/basel_kaffoura" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" height="40" width="50" alt="Telegram" />
-  </a>
-  <a href="mailto:baselkaffoura@gmail.com" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" height="40" width="50" alt="Gmail" />
-  </a>
-  <a href="https://baselkaffoura.online" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=R9cokz2UAdyo&format=png&color=000000" height="50" width="50" alt="Portfolio" />
-  </a>
+  <b>Senior Software Engineer · Senior Web Developer</b><br />
+  Telephony, WhatsApp &amp; AI voice agents for regulated SaaS<br />
+  📍 Dubai, UAE · Open to relocation
 </p>
+
+<p align="center">
+  <a href="https://baselkaffoura.online"><img src="https://img.shields.io/badge/Portfolio-baselkaffoura.online-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/basel-kaffoura/"><img src="https://img.shields.io/badge/LinkedIn-basel--kaffoura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:baselkaffoura@gmail.com"><img src="https://img.shields.io/badge/Email-baselkaffoura%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://baselkaffoura.online/Basel_Kaffoura_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-24292f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /></a>
+</p>
+
+---
+
+### 👋 About me
+
+Senior software engineer with **8+ years** of building production-grade web platforms for fintech, e-learning and enterprise clients across the **UK, US, UAE and Saudi Arabia**. I specialise in real-time communications, AI voice agents and messaging for regulated industries, and I work across the full stack, from architecture and APIs to the interfaces people use every day.
+
+- 📞 **Real-time communications:** in-browser calling (WebRTC/SIP), IVR and call routing, call recording and live transcription
+- 🤖 **AI voice & LLMs:** AI voice agents that make and answer calls, AI-drafted messaging, Claude and MCP
+- 💬 **Messaging:** WhatsApp Business API, SMS and unified real-time inboxes
+- 💳 **Fintech:** lending platforms and real-time lead routing handling **1,200+ applications a day**
+- 🔐 **Regulated by design:** FCA and GDPR, consent, encryption and audit trails
+- 🧪 **How I work:** test-first (Pest, Vitest, Playwright), static analysis in CI and clean architecture
+
+### 🚀 Featured work
+
+Most of my work is private and commercial, so the full case studies live on my **[portfolio](https://baselkaffoura.online/#projects)**.
+
+| Project | What it is |
+|---|---|
+| **[Cylas](https://baselkaffoura.online/#projects)** | Multi-tenant CRM and contact centre for UK debt advice, with telephony, WhatsApp and AI voice agents |
+| **[Lending Platforms](https://baselkaffoura.online/#projects)** | Loan application funnels and a real-time lead-routing platform for UK and US consumer lending |
+| **[BAS](https://baselkaffoura.online/#projects)** | Internal debt-advice CRM with case management and real-time WhatsApp and SMS |
+| **[Dev OSX](https://baselkaffoura.online/#projects)** | AI-native project management from idea to deploy, with AI coding agents working through MCP |
+
+Earlier: large-scale e-learning platforms for the **Abu Dhabi Judicial Department** and **Dubai Center for Government Excellence**.
+
+### 🛠️ Tech stack
+
+| Area | Stack |
+|---|---|
+| **Backend** | <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs" alt="PHP, Laravel, Python, FastAPI, Node.js" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vue,nuxtjs,tailwind" alt="React, Next.js, TypeScript, Vue.js, Nuxt.js, Tailwind CSS" /> |
+| **Data & cloud** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws,githubactions,vercel,linux" alt="MySQL, PostgreSQL, MongoDB, Redis, Docker, AWS, GitHub Actions, Vercel, Linux" /> |
+| **Testing & AI** | <img src="https://skillicons.dev/icons?i=vitest,playwright,claude" alt="Vitest, Playwright, Claude" /> |
+
+Also: Telnyx · Twilio · Deepgram · WhatsApp Business API · Stripe · Sentry
+
+### 📜 Recent certifications
+
+- **Anthropic:** Claude Code in Action · Introduction to Model Context Protocol · AI Fluency: Framework & Foundations (2026)
+- **Udemy:** FastAPI · AWS Fundamentals · CI/CD with GitHub Actions · Laravel testing and more ([all certificates](https://baselkaffoura.online/#certificates))
+
+---
+
+<p align="center">💼 Open to senior engineering roles and relocation. The fastest way to reach me is <a href="https://www.linkedin.com/in/basel-kaffoura/">LinkedIn</a> or <a href="mailto:baselkaffoura@gmail.com">email</a>.</p>
