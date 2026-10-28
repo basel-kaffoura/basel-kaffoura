@@ -46,7 +46,8 @@ Earlier: large-scale e-learning platforms for the **Abu Dhabi Judicial Departmen
 | **Backend** | <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs" alt="PHP, Laravel, Python, FastAPI, Node.js" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vue,nuxtjs,tailwind" alt="React, Next.js, TypeScript, Vue.js, Nuxt.js, Tailwind CSS" /> |
 | **Data & cloud** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws,githubactions,vercel,linux" alt="MySQL, PostgreSQL, MongoDB, Redis, Docker, AWS, GitHub Actions, Vercel, Linux" /> |
-| **Testing & AI** | <img src="https://skillicons.dev/icons?i=vitest,playwright,claude" alt="Vitest, Playwright, Claude" /> |
+| **Testing & AI** | Pest · PHPUnit · Vitest · Playwright · Claude · MCP |
+| **Comms & payments** | Telnyx · Twilio · Deepgram · WhatsApp Business API · Stripe · Sentry |
 
 Also: Telnyx · Twilio · Deepgram · WhatsApp Business API · Stripe · Sentry
 
