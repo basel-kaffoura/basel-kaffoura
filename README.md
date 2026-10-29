@@ -49,8 +49,6 @@ Earlier: large-scale e-learning platforms for the **Abu Dhabi Judicial Departmen
 | **Testing & AI** | Pest · PHPUnit · Vitest · Playwright · Claude · MCP |
 | **Comms & payments** | Telnyx · Twilio · Deepgram · WhatsApp Business API · Stripe · Sentry |
 
-Also: Telnyx · Twilio · Deepgram · WhatsApp Business API · Stripe · Sentry
-
 ### 📜 Recent certifications
 
 - **Anthropic:** Claude Code in Action · Introduction to Model Context Protocol · AI Fluency: Framework & Foundations (2026)
