@@ -10,6 +10,7 @@
   <a href="https://baselkaffoura.com"><img src="https://img.shields.io/badge/Portfolio-baselkaffoura.com-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/basel-kaffoura/"><img src="https://img.shields.io/badge/LinkedIn-basel--kaffoura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:baselkaffoura@gmail.com"><img src="https://img.shields.io/badge/Email-baselkaffoura%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/971503898795"><img src="https://img.shields.io/badge/WhatsApp-%2B971%2050%20389%208795-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://baselkaffoura.com/Basel_Kaffoura_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-24292f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /></a>
 </p>
 
@@ -73,4 +74,4 @@ Earlier: large-scale e-learning platforms for the **Abu Dhabi Judicial Departmen
 
 ---
 
-<p align="center">💼 Open to senior engineering roles and relocation. The fastest way to reach me is <a href="https://www.linkedin.com/in/basel-kaffoura/">LinkedIn</a> or <a href="mailto:baselkaffoura@gmail.com">email</a>.</p>
+<p align="center">💼 Open to senior engineering roles and relocation. The fastest way to reach me is <a href="https://www.linkedin.com/in/basel-kaffoura/">LinkedIn</a>, <a href="mailto:baselkaffoura@gmail.com">email</a> or <a href="https://wa.me/971503898795">WhatsApp</a>.</p>
