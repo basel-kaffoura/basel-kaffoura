@@ -28,7 +28,7 @@ Senior software engineer with **8+ years** of building production-grade web plat
 
 ### 🚀 Featured work
 
-Most of my work is private and commercial, so the full case studies live on my **[portfolio](https://baselkaffoura.com/#projects)**.
+Most of my work is private and commercial, so the full case studies live on my **[portfolio](https://baselkaffoura.com/#projects)**. Day-to-day commits go to private company repositories under my work account, [basel-kaffoura-work](https://github.com/basel-kaffoura-work).
 
 | Project | What it is |
 |---|---|
