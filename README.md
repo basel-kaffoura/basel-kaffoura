@@ -28,7 +28,24 @@ Senior software engineer with **8+ years** of building production-grade web plat
 
 ### 🚀 Featured work
 
-Most of my work is private and commercial, so the full case studies live on my **[portfolio](https://baselkaffoura.com/#projects)**. Day-to-day commits go to private company repositories under my work account, [basel-kaffoura-work](https://github.com/basel-kaffoura-work).
+Most of my work is private and commercial, so the full case studies live on my **[portfolio](https://baselkaffoura.com/#projects)**.
+
+<p align="center">
+  <a href="https://github.com/basel-kaffoura-work">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=basel-kaffoura-work&mode=weekly&border_radius=12&disable_animations=true&background=0f1629&border=1e2a44&stroke=1e2a44&ring=00d4ff&fire=f72585&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=a3afcb&dates=8592b1" />
+      <img src="https://streak-stats.demolab.com/?user=basel-kaffoura-work&mode=weekly&border_radius=12&disable_animations=true&background=ffffff&border=d0d7de&stroke=d0d7de&ring=0891b2&fire=db2777&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=0891b2&sideLabels=59636e&dates=59636e" alt="Contribution stats from my work account" width="495" />
+    </picture>
+  </a>
+  </p>
+
+<p align="center">
+  📈 <b>Live stats from my work account.</b> My day-to-day work is in private company repositories, <a href="https://github.com/basel-kaffoura-work"><b>basel-kaffoura-work</b></a>.
+  <br /><br />
+  <a href="https://github.com/basel-kaffoura-work"><img src="https://img.shields.io/badge/Work%20account-basel--kaffoura--work-0e7490?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f" alt="Work account: basel-kaffoura-work" /></a>
+</p>
+
+
 
 | Project | What it is |
 |---|---|
