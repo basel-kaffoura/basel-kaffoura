@@ -40,7 +40,7 @@ Most of my work is private and commercial, so the full case studies live on my *
   </p>
 
 <p align="center">
-  📈 <b>Live stats from my work account.</b> My day-to-day work is in private company repositories, <a href="https://github.com/basel-kaffoura-work"><b>basel-kaffoura-work</b></a>.
+  📈 <b>Live stats from my work account, <a href="https://github.com/basel-kaffoura-work">basel-kaffoura-work</a>.</b> My day-to-day work is in private company repositories.
   <br /><br />
   <a href="https://github.com/basel-kaffoura-work"><img src="https://img.shields.io/badge/Work%20account-basel--kaffoura--work-0e7490?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f" alt="Work account: basel-kaffoura-work" /></a>
 </p>
