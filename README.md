@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://baselkaffoura.online"><img src="https://img.shields.io/badge/Portfolio-baselkaffoura.online-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://baselkaffoura.com"><img src="https://img.shields.io/badge/Portfolio-baselkaffoura.com-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/basel-kaffoura/"><img src="https://img.shields.io/badge/LinkedIn-basel--kaffoura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:baselkaffoura@gmail.com"><img src="https://img.shields.io/badge/Email-baselkaffoura%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://baselkaffoura.online/Basel_Kaffoura_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-24292f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /></a>
+  <a href="https://baselkaffoura.com/Basel_Kaffoura_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-24292f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /></a>
 </p>
 
 ---
@@ -28,14 +28,14 @@ Senior software engineer with **8+ years** of building production-grade web plat
 
 ### 🚀 Featured work
 
-Most of my work is private and commercial, so the full case studies live on my **[portfolio](https://baselkaffoura.online/#projects)**.
+Most of my work is private and commercial, so the full case studies live on my **[portfolio](https://baselkaffoura.com/#projects)**.
 
 | Project | What it is |
 |---|---|
-| **[Cylas](https://baselkaffoura.online/#projects)** | Multi-tenant CRM and contact centre for UK debt advice, with telephony, WhatsApp and AI voice agents |
-| **[Lending Platforms](https://baselkaffoura.online/#projects)** | Loan application funnels and a real-time lead-routing platform for UK and US consumer lending |
-| **[BAS](https://baselkaffoura.online/#projects)** | Internal debt-advice CRM with case management and real-time WhatsApp and SMS |
-| **[Dev OSX](https://baselkaffoura.online/#projects)** | AI-native project management from idea to deploy, with AI coding agents working through MCP |
+| **[Cylas](https://baselkaffoura.com/#projects)** | Multi-tenant CRM and contact centre for UK debt advice, with telephony, WhatsApp and AI voice agents |
+| **[Lending Platforms](https://baselkaffoura.com/#projects)** | Loan application funnels and a real-time lead-routing platform for UK and US consumer lending |
+| **[BAS](https://baselkaffoura.com/#projects)** | Internal debt-advice CRM with case management and real-time WhatsApp and SMS |
+| **[Dev OSX](https://baselkaffoura.com/#projects)** | AI-native project management from idea to deploy, with AI coding agents working through MCP |
 
 Earlier: large-scale e-learning platforms for the **Abu Dhabi Judicial Department** and **Dubai Center for Government Excellence**.
 
@@ -52,7 +52,7 @@ Earlier: large-scale e-learning platforms for the **Abu Dhabi Judicial Departmen
 ### 📜 Recent certifications
 
 - **Anthropic:** Claude Code in Action · Introduction to Model Context Protocol · AI Fluency: Framework & Foundations (2026)
-- **Udemy:** FastAPI · AWS Fundamentals · CI/CD with GitHub Actions · Laravel testing and more ([all certificates](https://baselkaffoura.online/#certificates))
+- **Udemy:** FastAPI · AWS Fundamentals · CI/CD with GitHub Actions · Laravel testing and more ([all certificates](https://baselkaffoura.com/#certificates))
 
 ---
 
